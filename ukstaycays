@@ -1,0 +1,11 @@
+.layout { width: 100%; display: flex;gap: 16px;}
+
+ .grow1 { 
+flex-grow: 1;  }
+
+ .grow1 a { 
+font-weight: 800 !important;
+font-size: 16px  !important;
+color: black  !important;
+text-align: centre  !important;
+} 
